@@ -35,11 +35,6 @@ In my free time I make 3D images and animations of biology in Blender:
 https://github.com/user-attachments/assets/7cd509f1-9dcb-4c5a-b13d-393172616c4d
 
 
-https://github.com/user-attachments/assets/f721942d-7f0a-4fbf-82c1-30fcc308a600
-
-
-
-
 <!--
 **liuweisu/liuweisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
