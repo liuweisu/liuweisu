@@ -16,8 +16,29 @@ I'm based in the Netherlands and open to roles in Belgium, Germany and Luxembour
 ## About me
 
 - 🌱 Currently learning to build AI agents that use tools and APIs to explore datasets
+- 🎨 In my free time I draw, edit photos, and make 3D animations
 - 🧪 I have both wet-lab as dry-lab experience in preclinical drug research
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/liu-wei-su-199784238/)
+
+## Scientific visualisation
+
+In my free time I make 3D images and animations of biology in Blender:
+
+- A bacteriophage on an *E. coli*, modelled from the bacteriophage protein structures
+- Red blood cells flowing through a blood vessel
+- A rotating white blood cell
+
+<!-- add one GIF or image here -->
+<img width="1920" height="1080" alt="Bacteriophage T7 final OG colors" src="https://github.com/user-attachments/assets/427b9842-d55b-4d76-967f-a766cc3fe5f5" />
+
+
+https://github.com/user-attachments/assets/7cd509f1-9dcb-4c5a-b13d-393172616c4d
+
+
+https://github.com/user-attachments/assets/f721942d-7f0a-4fbf-82c1-30fcc308a600
+
+
+
 
 <!--
 **liuweisu/liuweisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
