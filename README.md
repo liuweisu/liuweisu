@@ -2,16 +2,19 @@
 
 I'm Liu Wei, an MSc Bioinformatics and Systems Biology graduate from Wageningen University & Research.
 
+I build reproducible pipelines for genomics, image analysis, and testing deep learning algorithms.
+
 I'm interested in genomics, image analysis, clinical drug research, and using AI to answer biological questions.
 
 I'm based in the Netherlands and open to roles in Belgium, Germany and Luxembourg.
 
 ## Skills
 
-- **Programming:** Python, R, Java, Linux/ Bash, SQL
-- **Deep learning for images:** U-Net, Segment Anything 3, DiffSeg, MedSegDiff-V2, Qwen Image-Edit
-- **Bioinformatics:** RNA-seq, Pangenomics, Genomics, NGS analysis, Genome assemblies
-- **Version control and automation:** Snakemake, HPC, Conda environments, Docker, Nextflow
+- **Programming:** Python, R, Bash, SQL, Java
+- **Machine learning:** PyTorch, U-Net, Segment Anything 3, DiffSeg, Generative inpainting, Qwen Image-Edit
+- **Bioinformatics:** RNA-seq, Pangenomics, Genomics, NGS analysis (Nanopore and Illumina), Genome assemblies, 16S rRNA analysis
+- **Infrastructure:** Linux, Snakemake, HPC, Conda, Git
+- **LLM tooling:** tool calling, local open-weight models (Ollama)
 
 ## About me
 
@@ -19,6 +22,17 @@ I'm based in the Netherlands and open to roles in Belgium, Germany and Luxembour
 - 🎨 In my free time I draw, edit photos, and make 3D animations
 - 🧪 I have both wet-lab as dry-lab experience in preclinical drug research
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/liu-wei-su-199784238/)
+  
+## What I work on
+
+| | Project | What it shows |
+| --- | --- | --- |
+| 🧬 | **[rnaseq-agent](https://github.com/liuweisu/rnaseq-agent)** | An LLM agent that analyses RNA-seq data through tool calling, on a local open-weight model, with a test set that catches invented results. Python, DESeq2 |
+| 🍃 | **Leaf damage quantification** (MSc thesis) | A deep learning pipeline that measures caterpillar damage on cabbage leaves: zero-shot segmentation with Segment Anything 3, generative inpainting to restore eaten leaf edges, and a U-Net for pixel-level hole detection. Includes a new dataset of 528 LiDAR scans. |
+| 🍈 | **Active transposable elements in melon** (Rijk Zwaan internship) | Snakemake workflows on HPC that benchmark detection pipelines across 25 genome assemblies. The code is company-confidential; I am happy to talk through the approach. |
+
+## Languages
+Dutch (Native), English (Fluent), Chinese (Mother language)
 
 ## Scientific visualisation
 
